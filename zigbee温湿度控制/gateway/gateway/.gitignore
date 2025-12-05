@@ -1,0 +1,9 @@
+*.mxproject
+/MDK-ARM/DebugConfig
+/MDK-ARM/RTE
+/MDK-ARM/stm32
+/MDK-ARM/EventRecorderStub.scvd
+/MDK-ARM/JLinkLog.txt
+/MDK-ARM/stm32.uvguix.togetek
+/MDK-ARM/startup_stm32f103xb.lst
+
